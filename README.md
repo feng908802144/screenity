@@ -1,4 +1,4 @@
-# Screenity
+# Screenity chrome插件
 ![Demo](https://media.giphy.com/media/6hc709nFEYnEtzIIyN/giphy.gif)
 <br>
 The most powerful screen recorder & annotation tool for Chrome 🎥
